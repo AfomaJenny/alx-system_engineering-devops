@@ -1,0 +1,3 @@
+#!/bin/bash
+peintf "%.2f" $NUM | sort
+
