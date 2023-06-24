@@ -1,0 +1,3 @@
+#!/bin/bash
+export $ ((' echo $PATH | grep -0 ":1" | wc -1 ' +1))
+
